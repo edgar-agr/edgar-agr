@@ -3,5 +3,3 @@ Aquiles es un perico.
 Un perico de color verde.
 
 Y panza de color gris.
-
-Las plumas de las alas son de color azul.
