@@ -5,3 +5,5 @@ Un perico de color verde.
 Y panza de color gris.
 
 Con un pico muy afilado.
+
+Y con un par de alas.
